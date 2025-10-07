@@ -1,0 +1,5 @@
+{
+  "name": "Uebsiflow",
+  "description": "Un task manager verticale progettato per agenzie, con una struttura gerarchica (cartelle, progetti, task, sottotask), dashboard personale e un manuale di sviluppo integrato per una facile manutenzione.",
+  "requestFramePermissions": []
+}
